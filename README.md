@@ -2,7 +2,7 @@
 Hi, I'm Tonin 💻.
 
 - Living in São Paulo, Brazil 🇧🇷.
-! 15 years old
+! 16 years old
 + Programming and gaming are my loves.
 # 📖 Learning C and Javascript.
 ```
