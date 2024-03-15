@@ -1,10 +1,10 @@
 ```diff
-Hi, I'm Tonin 💻.
+Hi, I'm Antonio 💻.
 
 - Living in São Paulo, Brazil 🇧🇷.
-! 16 years old
+! 17 years old
 + Programming and gaming are my loves.
-# 📖 Learning C and Javascript.
+# 📖 Learning PHP and Javascript.
 ```
 ##
 <div style="display: inline_block"><br>
