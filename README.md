@@ -1,9 +1,9 @@
 ```diff
 Hi, I'm Antonio 💻.
 
-- Living in São Paulo, Brazil 🇧🇷.
+- Living in Bauru, Brazil 🇧🇷.
 ! 17 years old
-+ Programming and gaming are my loves.
++ I love programming and gaming.
 # 📖 Learning PHP and Javascript.
 ```
 ##
