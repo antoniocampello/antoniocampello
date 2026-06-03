@@ -2,9 +2,9 @@
 Hi, I'm Antonio 💻.
 
 - Living in Bauru, Brazil 🇧🇷.
-! 17 years old
+! 19 years old
 + I love programming and gaming.
-# 📖 Learning PHP and Javascript.
+# 📖 Learning Javascript and Data Structures.
 ```
 ##
 <div style="display: inline_block"><br>
